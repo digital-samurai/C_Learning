@@ -1,0 +1,11 @@
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp2.0\Ch02_Basics.deps.json
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp2.0\Ch02_Basics.runtimeconfig.json
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp2.0\Ch02_Basics.runtimeconfig.dev.json
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp2.0\Ch02_Basics.dll
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp2.0\Ch02_Basics.pdb
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp2.0\Ch02_Basics.csprojResolveAssemblyReference.cache
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp2.0\Ch02_Basics.csproj.CoreCompileInputs.cache
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp2.0\Ch02_Basics.AssemblyInfoInputs.cache
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp2.0\Ch02_Basics.AssemblyInfo.cs
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp2.0\Ch02_Basics.dll
+C:\Users\taylorro\Documents\Learning\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp2.0\Ch02_Basics.pdb

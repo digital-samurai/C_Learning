@@ -1,0 +1,11 @@
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\bin\Debug\netcoreapp2.0\Ch01_HelloCS.deps.json
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\bin\Debug\netcoreapp2.0\Ch01_HelloCS.runtimeconfig.json
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\bin\Debug\netcoreapp2.0\Ch01_HelloCS.runtimeconfig.dev.json
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\bin\Debug\netcoreapp2.0\Ch01_HelloCS.dll
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\bin\Debug\netcoreapp2.0\Ch01_HelloCS.pdb
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.AssemblyInfoInputs.cache
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.AssemblyInfo.cs
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.dll
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.pdb
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.csprojResolveAssemblyReference.cache

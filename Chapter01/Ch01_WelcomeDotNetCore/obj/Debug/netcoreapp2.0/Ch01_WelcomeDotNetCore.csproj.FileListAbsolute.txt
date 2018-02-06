@@ -1,0 +1,11 @@
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.deps.json
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.runtimeconfig.json
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.runtimeconfig.dev.json
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.dll
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.pdb
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.csprojResolveAssemblyReference.cache
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.AssemblyInfoInputs.cache
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.AssemblyInfo.cs
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.dll
+C:\Users\taylorro\Documents\Learning\Code\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.pdb
